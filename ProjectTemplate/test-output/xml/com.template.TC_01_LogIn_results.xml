@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Run On Chrome"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.463">
+  <properties />
+  
+  
+            <testcase name="TC01_LogIn_EmptyData" time="0.463" classname="com.template.TC_01_LogIn" />
+      
+</testsuite>
